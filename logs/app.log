@@ -1,0 +1,98 @@
+2023-10-24T02:39:50.414Z info: 🟢 App listening on the port 3000
+2023-10-24T02:45:22.194Z info: 🟢 App listening on the port 3000
+2023-10-24T02:45:56.437Z info: 🟢 App listening on the port 3000
+2023-10-24T02:46:31.009Z info: 🟢 App listening on the port 3000
+2023-10-24T02:47:01.176Z info: 🟢 App listening on the port 3000
+2023-10-24T02:48:03.231Z info: 🟢 App listening on the port 3000
+2023-10-24T02:54:52.151Z info: 🟢 App listening on the port 3000
+2023-10-24T02:55:46.596Z info: 🟢 App listening on the port 3000
+2023-10-24T02:59:03.160Z info: 🟢 App listening on the port 3000
+2023-10-24T02:59:31.196Z info: 🟢 App listening on the port 3000
+2023-10-24T03:03:20.668Z info: 🟢 App listening on the port 3000
+2023-10-24T03:05:46.307Z info: 🟢 App listening on the port 3000
+2023-10-24T03:11:50.562Z info: 🟢 App listening on the port 3000
+2023-10-24T03:11:51.559Z info: 🟢 App listening on the port 3000
+2023-10-24T03:12:07.911Z info: 🟢 App listening on the port 3000
+2023-10-24T03:13:25.833Z info: 🟢 App listening on the port 3000
+2023-10-24T03:13:52.928Z info: 🟢 App listening on the port 3000
+2023-10-24T03:27:46.456Z info: 🟢 App listening on the port 3000
+2023-10-24T03:27:48.948Z info: 🟢 App listening on the port 3000
+2023-10-24T03:27:50.983Z info: 🟢 App listening on the port 3000
+2023-10-24T03:31:21.539Z error: Validation Error: El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-24T03:31:21.540Z error: Error 400 - El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-24T03:48:09.707Z info: 🟢 App listening on the port 3000
+2023-10-24T03:48:15.817Z info: 🟢 App listening on the port 3000
+2023-10-24T03:53:29.493Z info: 🟢 App listening on the port 3000
+2023-10-24T03:55:49.066Z info: 🟢 App listening on the port 3000
+2023-10-24T03:56:34.410Z info: 🟢 App listening on the port 3000
+2023-10-24T03:56:50.335Z info: 🟢 App listening on the port 3000
+2023-10-24T03:57:03.791Z info: 🟢 App listening on the port 3000
+2023-10-24T03:58:53.775Z info: 🟢 App listening on the port 3000
+2023-10-24T03:59:28.302Z error: Validation Error: El nombre debe tener mas de 3 y menos de 20 caracteres, La descripcion debe tener al menos 10 caracteres
+2023-10-24T03:59:28.303Z error: Error 400 - El nombre debe tener mas de 3 y menos de 20 caracteres, La descripcion debe tener al menos 10 caracteres
+2023-10-24T04:02:23.374Z info: 🟢 App listening on the port 3000
+2023-10-24T04:02:29.442Z error: Validation Error: El nombre debe tener mas de 3 y menos de 20 caracteres, La descripcion debe tener al menos 10 caracteres, El precio debe ser un número positivo
+2023-10-24T04:02:29.443Z error: Error 400 - El nombre debe tener mas de 3 y menos de 20 caracteres, La descripcion debe tener al menos 10 caracteres, El precio debe ser un número positivo
+2023-10-24T04:02:50.983Z error: Validation Error: El precio debe ser un número positivo
+2023-10-24T04:02:50.984Z error: Error 400 - El precio debe ser un número positivo
+2023-10-24T04:04:12.191Z info: 🟢 App listening on the port 3000
+2023-10-24T04:04:20.145Z error: Validation Error: La imagenUrl debe ser una URL válida
+2023-10-24T04:04:20.146Z error: Error 400 - La imagenUrl debe ser una URL válida
+2023-10-24T04:04:55.678Z error: Validation Error: La imagenUrl debe ser una URL válida
+2023-10-24T04:04:55.679Z error: Error 400 - La imagenUrl debe ser una URL válida
+2023-10-24T04:05:29.061Z info: 🟢 App listening on the port 3000
+2023-10-24T04:17:42.579Z info: 🟢 App listening on the port 3000
+2023-10-24T04:18:51.041Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-10-24T04:18:51.042Z error: Error 400 - El ID proporcionado no es válido para MongoDB.
+2023-10-24T04:19:58.120Z info: 🟢 App listening on the port 3000
+2023-10-24T04:20:03.461Z error: Error 401 - Missing authorization header.
+2023-10-24T04:20:12.218Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-24T04:20:12.219Z error: Error 400 - La contraseña debe tener al menos 6 caracteres
+2023-10-24T04:20:27.607Z error: Error 400 - The user is already registered
+2023-10-24T04:21:00.604Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-10-24T04:21:00.604Z error: Error 400 - El ID proporcionado no es válido para MongoDB.
+2023-10-24T04:21:44.203Z info: 🟢 App listening on the port 3000
+2023-10-24T04:21:59.196Z error: Error 401 - Missing authorization header.
+2023-10-24T04:28:22.883Z info: 🟢 App listening on the port 3000
+2023-10-24T04:28:24.275Z info: 🟢 App listening on the port 3000
+2023-10-24T04:28:42.584Z error: Validation Error: No es un ID válido
+2023-10-24T04:28:42.584Z error: Error 400 - No es un ID válido
+2023-10-24T04:30:18.605Z info: 🟢 App listening on the port 3000
+2023-10-24T04:30:26.336Z error: Validation Error: No es un Id valido de mongo
+2023-10-24T04:30:26.336Z error: Error 400 - No es un Id valido de mongo
+2023-10-24T04:30:42.214Z info: 🟢 App listening on the port 3000
+2023-10-24T19:02:43.005Z info: 🟢 App listening on the port 3000
+2023-10-24T19:02:44.509Z info: 🟢 App listening on the port 3000
+2023-10-24T19:03:47.384Z info: 🟢 App listening on the port 3000
+2023-10-24T19:03:58.250Z error: Error 401 - Missing authorization header.
+2023-10-24T19:04:22.369Z error: Error 500 - jwt expired
+2023-10-24T19:15:28.459Z error: Validation Error: La descripcion debe tener al menos 10 caracteres, La imagenUrl debe ser una URL válida
+2023-10-24T19:15:28.460Z error: Error 400 - La descripcion debe tener al menos 10 caracteres, La imagenUrl debe ser una URL válida
+2023-10-24T19:15:43.593Z error: Validation Error: La imagenUrl debe ser una URL válida
+2023-10-24T19:15:43.594Z error: Error 400 - La imagenUrl debe ser una URL válida
+2023-10-24T19:15:48.119Z error: Error 400 - Unexpected token } in JSON at position 95
+2023-10-24T19:15:53.353Z error: Validation Error: La imagenUrl debe ser una URL válida
+2023-10-24T19:15:53.353Z error: Error 400 - La imagenUrl debe ser una URL válida
+2023-10-24T19:16:00.880Z error: Validation Error: La imagenUrl debe ser una URL válida
+2023-10-24T19:16:00.880Z error: Error 400 - La imagenUrl debe ser una URL válida
+2023-10-24T19:19:13.851Z info: 🟢 App listening on the port 3000
+2023-10-24T19:20:07.153Z info: 🟢 App listening on the port 3000
+2023-10-24T19:20:46.800Z info: 🟢 App listening on the port 3000
+2023-10-24T19:21:37.855Z info: 🟢 App listening on the port 3000
+2023-10-24T19:22:21.676Z info: 🟢 App listening on the port 3000
+2023-10-24T19:22:33.012Z error: Error 401 - Missing authorization header.
+2023-10-24T19:22:37.481Z error: Error 401 - Missing authorization header.
+2023-10-24T19:22:55.491Z error: Error 400 - The user is already registered
+2023-10-24T19:23:07.031Z error: Error 500 - User validation failed: imagenUrl: La imagen es obligatoria
+2023-10-24T19:25:32.309Z error: Error 500 - User validation failed: imagenUrl: La imagen es obligatoria
+2023-10-24T19:25:42.015Z error: Error 500 - User validation failed: imagenUrl: La imagen es obligatoria
+2023-10-24T19:26:37.624Z info: 🟢 App listening on the port 3000
+2023-10-24T19:26:42.817Z error: Error 500 - User validation failed: imagenUrl: La imagen es obligatoria
+2023-10-24T19:27:00.807Z error: Error 500 - User validation failed: imagenUrl: La imagen es obligatoria
+2023-10-24T19:28:23.251Z info: 🟢 App listening on the port 3000
+2023-10-24T19:28:51.420Z error: Error 400 - Unexpected token } in JSON at position 119
+2023-10-24T19:28:55.869Z error: Validation Error: La imagenUrl debe ser una URL válida
+2023-10-24T19:28:55.870Z error: Error 400 - La imagenUrl debe ser una URL válida
+2023-10-24T19:29:05.375Z error: Error 400 - The user is already registered
+2023-10-24T19:33:40.026Z info: 🟢 App listening on the port 3000
+2023-10-24T19:33:43.419Z info: 🟢 App listening on the port 3000
